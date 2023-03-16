@@ -20,7 +20,6 @@ public class Employee {
         return fullName;
     }
 
-
     public int getDepartment() {
         return department;
     }
